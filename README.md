@@ -37,9 +37,11 @@ The main characteristics of the dataset are shown in the following table.
 
 By using this dataset, you agree to cite the following article: 
 
+```
 @inproceedings{cirillo2024ethical,
   title={Can Multimodal Large Language Models be used to Disseminate Unethical Content on the Web?},
   author={Cirillo, S., Polese, G., and Solimando, G.},
   booktitle={TBD},
   year={2024}
 }
+```
